@@ -10,7 +10,7 @@ Roza has a partially completed dashboard that she needs to finish. She has a com
 
 ### Results
 
-On the webpage, see index.html file link below in this repository:
+On the webpage, see GitHub page link below:
 
 https://jsaltmd.github.io/plotly_deployment/
 
