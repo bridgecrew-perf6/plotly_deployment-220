@@ -24,7 +24,7 @@ And these charts are presented in a customized dashboard as shown on the example
 
 ![](./image/pic2.png)
 
-When the user enter a search criteria (test subject ID number) on the pull down menu, the javascript we write will store the values in the text box and IDs associated with the text box and the javascript object and present the results on the dashboard.
+When the user enter a search criteria (test subject ID number) on the pull down menu, the information are then presented on the dashboard.
 
 ### Summary
 
