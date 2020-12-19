@@ -14,13 +14,13 @@ On the webpage, see index.html file link below in this repository:
 
 https://jsaltmd.github.io/plotly_deployment/
 
-The following charts:
+The following charts were created:
 
 * Horizontal Bar Chart
 * Bubble Chart
 * Gauge Chart
 
-Are presented in a customized dashboard as shown below:
+And these charts are presented in a customized dashboard as shown on the example picture below:
 
 ![](./image/pic2.png)
 
